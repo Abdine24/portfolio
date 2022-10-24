@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(228, 225, 225);
+
+}
+
+h1{
+    background-color: blueviolet;
+    border-width: 10px;
+    border-radius: 10%;
+    box-shadow: 20px;
+}
+
+ul{
+    color: brown;
+}
+ol{
+    color: green;
+}
